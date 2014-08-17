@@ -9,8 +9,10 @@ http://forum.xda-developers.com/xperia-z/themes-apps/mod-merge-wifi-signal-icons
 3. Reboot the phone
 
 ## Change log:
-* Ver 0.2
- - Delete unuse png. ("somc_*")  
-(Because my XPERIAZ don't need those.)
+* Ver 0.4
+ - Add app icon.
+ - Change how to modify layout xml.(replace xml -> sort xml)
+* Ver 0.2,0.3
+ - bug fix.
 * Ver 0.1
  - Project release.
